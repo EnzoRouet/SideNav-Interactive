@@ -3,7 +3,7 @@
 **Projet d'étude** focalisé sur la création d'une interface de navigation dynamique et la gestion d'états d'affichage en JavaScript natif.
 Une implémentation de menu latéral (Sidebar) mettant l'accent sur la transition fluide et la logique d'interaction utilisateur.
 
-![Aperçu de la sidebar](./img/main.png)
+![Aperçu de la sidebar](Previous.png)
 
 ## 🎯 Contexte & Objectifs Pédagogiques
 
